@@ -22,6 +22,10 @@ Lala!
 2. Numbered List element 2
 3. Numbered List element 3
 
+### Mini-header
+
+Some text
+
 ## Conclusion:
 
 We are starting our project!
